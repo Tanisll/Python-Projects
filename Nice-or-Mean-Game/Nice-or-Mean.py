@@ -50,7 +50,7 @@ def nice_mean(nice,mean,name):
             nice = (nice+1)
             stop = False
         if pick == 'm':
-            print ("\nThe stranger glares at you \nmenacingly and storms off...")
+            print ("\nThe stranger glares at you \nmenacingly and storms off... ")
             mean = (mean+1)
             stop = False
     score(nice,mean,name) #pass the 3 variables to the score()
