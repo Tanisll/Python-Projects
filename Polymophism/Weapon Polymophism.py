@@ -14,6 +14,8 @@ class Dagger(Weapon):
     damage = '1d4'
     weight = '1 lb.'
     cost = '2 gp'
+    color = 'Black'
+    material = 'Steel'
 
     def Attack(self):
         X = "Swing your weapon at a target within reach and make an attack roll against their AC rating."
@@ -25,6 +27,8 @@ class Warhammer(Weapon):
     weight = '3 lb.'
     cost = '15 gp'
     dmg_type = 'bludgeoning'
+    style = 'Orcish'
+    force = 'Knockback 10 ft.'
 
     def Attack(self):
         X = "Swing your weapon at a target within reach and make an attack roll against their AC rating."
