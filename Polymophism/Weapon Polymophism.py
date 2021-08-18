@@ -10,6 +10,8 @@ class Weapon:
         Y = "Thrust your weapon at a target within reach and make an attack roll against their AC rating."
         print(X)
 
+# Although the Parent Class only has 5 attributes, we have added two more
+# with the color and material of the weapon
 class Dagger(Weapon):
     damage = '1d4'
     weight = '1 lb.'
@@ -22,6 +24,8 @@ class Dagger(Weapon):
         Y = "Thrust your weapon at a target within reach and make an attack roll against their AC rating."
         print(Y)
 
+# Here we have also added two different attributes than the previous
+# weapon. The style and force of the weapon.
 class Warhammer(Weapon):
     damage = '1d8'
     weight = '3 lb.'
