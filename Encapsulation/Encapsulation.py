@@ -19,4 +19,6 @@ class Protected:
 
 obj = Protected()
 obj._protectedVar = 34
-print (obj. _protectedVar)
+print (obj._protectedVar)
+# The outcome should be 34 and not 0. By assigning the Protected method
+# to the variable obj, we were then able to modify the variable _protectedVar
