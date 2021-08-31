@@ -3,7 +3,7 @@ from django.db.models import Model
 from django.db.models import Manager
 
 
-def djangoClasses(models.Model):
+class djangoClasses(models.Model):
     title = models.CharField(max_length=50, default='', blank=False, null=False)
     courseNumber = models.IntegerField(max_length=10, default='', blank=False, null=False)
     instructorName = models.CharField(max_length=80, default='', blank=False, null=False)
