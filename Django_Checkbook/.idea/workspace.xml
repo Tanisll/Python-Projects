@@ -4,76 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d25a5735-81d1-421d-96ba-c26ba6444d98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/Django_Checkbook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0002_transactions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0003_auto_20210901_1805.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0004_auto_20210901_1806.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0005_alter_transactions_selectaccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0006_auto_20210901_1828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0007_auto_20210901_1829.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0008_alter_transactions_typeoftransaction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0009_auto_20210901_1924.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/0010_auto_20210902_0031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/Accounts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/mainapp/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/static/CSS/CheckbookApp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/static/images/CheckCalligraphyPen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/templates/checkbook/AddTransaction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/templates/checkbook/BalanceSheet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/templates/checkbook/CreateNewAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/templates/checkbook/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/Checkbook/templates/checkbook_base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Django_Checkbook.old/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/static/CSS/CheckbookApp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/static/images/CheckCalligraphyPen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/templates/checkbook/AddTransaction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/templates/checkbook/BalanceSheet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/templates/checkbook/CreateNewAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/templates/checkbook/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/templates/checkbook_base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Checkbook/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Django_Checkbook/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Django_Checkbook/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Django_Checkbook/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Django_Checkbook/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/Django_Checkbook/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Checkbook/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d25a5735-81d1-421d-96ba-c26ba6444d98" name="Changes" comment="django Checkbook App finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1630565156369</updated>
     </task>
+    <task id="LOCAL-00001" summary="django Checkbook App finished">
+      <created>1630568480828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630568480828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +75,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="django Checkbook App finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="django Checkbook App finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
